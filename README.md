@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about Competitive Programming (CP),
 I'm continuously learning and improving my skills in:
 
 - Data Structures & Algorithms (DSA)
-- Machine Learning
+- Machine Learning (ML)
 - JavaScript (JS)
 
 ## 💞️ Looking to Collaborate On
