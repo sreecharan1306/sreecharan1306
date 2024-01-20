@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm passionate about Competitive Programming (CP),
 - Competitive Programming (CP) and Data Structures & Algorithms (DSA)
 - Web Development
 - Machine Learning
+- Chess
+- Badminton
 - Anime
 
 ## 🌱 Currently Learning
@@ -17,6 +19,7 @@ I'm continuously learning and improving my skills in:
 - Data Structures & Algorithms (DSA)
 - Machine Learning (ML)
 - JavaScript (JS)
+
 
 ## 💞️ Looking to Collaborate On
 
@@ -33,6 +36,8 @@ You can reach me via email at mscharan1313@gmail.com. Additionally, you can conn
 
 - Instagram: [sreecharan1313](https://www.instagram.com/sreecharan1313)
 - LinkedIn: [Sree Charan Reddy M](https://www.linkedin.com/in/sree-charan-reddy-m)
+- LeetCode:[mscharan1313](https://leetcode.com/mscharan1313/)
+- CodeChef:[mscharan1313](https://www.codechef.com/users/mscharan1313)
 
 Let's connect, collaborate, and create amazing things together! If you think I'm missing any important information or have any questions, please don't hesitate to let me know.
 
