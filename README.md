@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about Competitive Programming (CP),
 - Badminton
 - Anime
 - Economics
-- 
+  
 
 ## 🌱 Currently Learning
 
@@ -27,8 +27,8 @@ I'm continuously learning and improving my skills in:
 
 I'm open to collaborating on exciting projects related to:
 
-- Web Development
-- Machine Learning
+- Backend Development
+- Frontend Development
 
 If you have an interesting project or idea, feel free to reach out to me!
 
