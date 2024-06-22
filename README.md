@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm passionate about Competitive Programming (CP),
 - Chess
 - Badminton
 - Anime
+- Economics
+- 
 
 ## 🌱 Currently Learning
 
