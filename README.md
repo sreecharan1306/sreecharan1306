@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm passionate about Competitive Programming (CP),
 ## 👀 Interests
 
 - Competitive Programming (CP) and Data Structures & Algorithms (DSA)
-- Web Development
-- Machine Learning
+- Backend Development
 - Chess
 - Badminton
 - Anime
@@ -19,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about Competitive Programming (CP),
 I'm continuously learning and improving my skills in:
 
 - Data Structures & Algorithms (DSA)
-- Machine Learning (ML)
+- Backend Development
 - JavaScript (JS)
 
 
