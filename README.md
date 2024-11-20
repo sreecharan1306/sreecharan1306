@@ -18,16 +18,15 @@ Welcome to my GitHub profile! I'm passionate about Competitive Programming (CP),
 I'm continuously learning and improving my skills in:
 
 - Data Structures & Algorithms (DSA)
-- Backend Development
-- JavaScript (JS)
+- Full-Stack Development
 
 
 ## 💞️ Looking to Collaborate On
 
 I'm open to collaborating on exciting projects related to:
 
-- Backend Development
-- Frontend Development
+- Full Stack Development
+- Deep Learning
 
 If you have an interesting project or idea, feel free to reach out to me!
 
